@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 区域经济
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: IDE
+    url: https://ide.must.edu.mo
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,10 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+研究领域:
+  - 投入产出
+  - 水资源
+  - 能源
+  - 污染
+  - 碳排放
 
 education:
   - area: PhD Artificial Intelligence
@@ -181,6 +183,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About IO
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+投入产出法，就是把一系列内部部门在一定时期内投入（购买）来源与产出（销售）去向排成一张纵横交叉的投入产出表格，根据此表建立数学模型，计算消耗系数，并据以进行经济分析和预测的方法。这是由美国的WassilyW.Leontief教授创立的。严格地讲，投入产出法是一种特殊的经济计量模型，它广泛应用于研究国民经济两大部类间、积累与消费间的比例关系，预测各部门的投入量和产出量。从应用范围上看，可分为全国性、地方性、专业性、大型企业、一般企业等形式。当预测中分析研究国民经济各部门之间、各部门内部或企业内部组织之间生产和消费相互依存关系，根据投入产出综合平衡关系，来推测预测目标的变动方向和程度，常用投入产出关系建立的数学模型。--百度
