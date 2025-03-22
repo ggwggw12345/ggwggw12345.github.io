@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-研究领域:
+Research area:
   - 投入产出
   - 水资源
   - 能源
