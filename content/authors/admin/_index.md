@@ -1,6 +1,6 @@
 ---
 # Display name
-title: xxxxxxxxxxxxxx
+title: Input output
 
 # Name pronunciation (optional)
 name_pronunciation: xxxxxxxxxxxxxxxxxxxxxxxx
