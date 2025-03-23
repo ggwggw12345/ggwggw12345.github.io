@@ -1,12 +1,20 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
+1.	Chen, Z. & Song, Y.* (2024). A new structural analysis framework of energy consumption in China. Journal of Cleaner Production, 2024, 144464. (SCIE, 2023； JCR Q1; ABDC A; Ranking:6.7% in Environmental Sciences; IF=9.7, TOP)
+2.	Lv, T., Song, Y.*, & Chen, Z. (2024). China’s inequality in urban and rural residential water consumption—A new multi-analysis system. Water, 17(1). (SCIE, 2023；JCR Q2; Ranking:30.9% in Water Resources; IF=3.0)
+3.	Lai, Y. & Song, Y.* (2024). Comparative analysis of CO2 emission linkages of construction between China and the United States using structural path analysis. Scientific Reports 14(1): 26493.	(SCIE, 2023; JCR Q1; Ranking: 18.3% in Multidisciplinary Sciences; IF=3.8)
+4.	Liu, Y., & Song, Y.* (2024). Does artificial ecosystem recharge make sense? Based on the coupled water orbit research framework. Ecological Indicators, 166, 112496. (SCIE, 2023；JCR Q1; Ranking: 11.73% in Environmental Sciences; IF=7.0, TOP)
+5.	Li, X., Li, Y., & Song, Y.* (2024). Labor linkages and flow paths of industry in China. Heliyon, 10(9), e30118. (SCIE, 2023；JCR Q1; Ranking:20.5% in Multidisciplinary Sciences; IF=3.4) 
+6.	Chen, Z., Song, Y.*, Li, Y., & Li, Z. (2023). Assessing the contaminant reduction effects of COVID-19 pandemic in China, Journal of Cleaner Production, 424, 138887. (SCIE, 2022；JCR Q1; ABDC A; Ranking:8.03% in Environmental Sciences; IF=11.1, TOP) 
+7.	Chen, S., Song, Y.*, & Gao, P. (2023). Environmental, social, and governance (ESG) performance and financial outcomes: Analyzing the impact of ESG on financial performance, Journal of Environmental Management, 345, 118829. (SCIE, 2023; JCR Q1; Ranking: 9.4% in Environmental Sciences; IF=9.78, TOP) 
+8.	Li, Z., Lin, Y., Song, Y.*, & Li, Z. (2023). Linkages and flow paths of energy consumption: Evidence from China’s sectors. Energy Reports, 9, 4594-4603. (SCIE, 2022; JCR Q2; Ranking: 45% in Energy & Fuels; IF:4.937)
+9.	Wen, W., Li, Y., & Song, Y. * (2022). Assessing the “negative effect” and “positive effect” of COVID-19 in China. Journal of Cleaner Production, 375, 134080. (SCIE, 2021; JCR Q1; ABDC A; Ranking: 8.6% in Environmental Sciences; IF: 11.1, TOP) 
+10.	Li, Z., Li, Z., & Song, Y.* (2022). Identification of key provinces and sectors for energy conservation in China: Linkage analyses based on the modified hypothetical extraction method. Energy Strategy Reviews, 44, 100998. (SCIE, 2021; JCR Q1; Ranking: 15.9% in Energy & Fuels; IF: 10.01, TOP)
+11.	Li, Z., & Song, Y.* (2022). Energy consumption linkages of the Chinese construction sector. Energies, 15(5), 1761. (SCIE, 2021; JCR Q3; Ranking: 32.8% in Energy & Fuels; IF: 3.252)
+12.	Hou, Z., Song, Y.*, & Xin, W. (2022). COVID-19 shocks, monetary policy, and real estate price volatility: Analysis based on a dynamic stochastic general equilibrium perspective. Scientific Programming, 2022, 7625465. (SCIE, 2021; Ranking: 71.9% in Computer Science, Software Engineering; IF: 1.672)
+13.	Bai, Y., & Song, Y.* (2022). CNS: Research on regional evaluation and distribution characteristics of enterprise technological innovation capability based on internet of things and big data. International Journal of Cooperative Information Systems, 2022, 2150004. (SCIE, 2021; Ranking: 98.2% in Computer Science, Information Systems; IF: 0.563)
+14.	Li, Z., Song, Y.*, & LI, Z. (2022). Linkage analysis of FDI utilization based on hypothetical extraction method. Technoeconomic & Management Research, 05, 3-9.
+15.	Song, Y., & LI, Y. (2021). Measurement of linkages loss in China under COVID-19 epidemic. Journal of Industrial Technological Economics, 40(07), 150-160. (CSSCI)
+16.	Li, Z., Song, Y.*, & Li, Y. (2021). Energy consumption linkage of construction industry in China based on hypothetical extraction method. Ecological Economy, 37(11), 78-85.
+17.	Deng, W., & Song, Y. (2020). Evaluation on economic growth effect of regional cooperation. East China Economic Management, 34(08), 64-75. (CSSCI)
+18.	Deng, W., Song, Y., & Chen, X. (2019). Evaluation on the economic growth effect of the underdeveloped areas in Yangtze River Delta driving by regional integration —Empirical study based on DID model. East China Economic Management, 33(07), 14-20. (CSSCI)
+下面是例子
 - X. Yang, X. Yu, C. Zhang, S. Li, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. IEEE Communications Letters. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
