@@ -2,10 +2,10 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+本站提供投资学、国际经济学、投入产出模型的教学材料
 
 #### Email
-sli[at]cumt.edu.cn
+ysong[at]must.edu.mo
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
