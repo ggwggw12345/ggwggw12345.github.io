@@ -1,6 +1,5 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
 本站提供投资学、国际经济学、投入产出模型的教学材料
 
