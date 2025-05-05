@@ -8,6 +8,8 @@ ysong@must.edu.mo
 
 #### 投资学课件
 [[按此获得课件]](https://www.070709.xyz/ppt.htm)
-#### 国际经济学课件
-[[按此获得课件]](https://070709.xyz.ppt.htm)
+#### 国际经济学I课件
+[[按此获得课件]](https://070709.xyz/ie.htm)
+#### Corporate Finance 课件
+[[按此获得课件]](https://070709.xyz/cf.htm)
 #### 投入产出模型
